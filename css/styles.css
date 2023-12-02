@@ -1,3 +1,119 @@
+.body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #434455;
+    background-color:  #FFFFFFFF;
+}
+
+
+.logo {
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+
+}
+
+.link {
+    text-decoration: none;
+}
+
+.logoword {
+    color: #2e2f42;
+}
+.nav {
+    list-style: none;
+}
+.menu{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.menu:hover,.link:hover {
+    color: #404bbf;
+}
+.menu:focus, .link:focus {
+    color: #404bbf;
+}
+.adress {
+    font-style: normal;
+}
+.list {
+    list-style: none;
+}
+
+.contacts {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.contacts:hover, .contacts:focus {
+    color: #404bbf;
+}
+.filters {
+    background-color: #2e2f42;
+}
+.first.filter {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+.first.button {
+    background-color: #4D5AE5;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+.first.button:hover {
+    background-color: #404bbf;
+
+} 
+
+.filter {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #4D5AE5;
+}
+.button {
+    background-color: #E7E9FC ;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+.button:hover, button:focus {
+    background-color: #404bbf;
+
+}
+
+.title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.content {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
 
 
 
