@@ -109,7 +109,7 @@
   text-transform: capitalize;
   color: var(--logo-color);
 }
-.li {
+.title {
   background-color: var(--basic-color);
 }
 .footer {
