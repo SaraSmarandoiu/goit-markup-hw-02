@@ -69,7 +69,7 @@ body {
     letter-spacing: 0.02em;
     color: #4D5AE5;
 }
-.button {
+.button-filter {
     background-color: #F4F4FD;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -81,7 +81,7 @@ body {
 }
 
 
-.button:hover, button:focus {
+.button-filter:hover, .button-filter:focus {
     background-color: #404bbf;
     color: #ffffff;
 
